@@ -1,5 +1,5 @@
 # Site settings
-title: OffshoreOrient
+title: OffshoreOrient | Geodata and Seismic QC
 SEOTitle: ZOZN_109 Blog | Geodata and Seismic QC
 header-img: img/post-bg-desk.jpg
 email: liuzhihao109@foxmail.com
@@ -11,7 +11,7 @@ github_repo: "https://github.com/liuh886/liuh886.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "明天不去问市场，自由或许问心脏"
+sidebar-about-description: "ZOZN_109：明天不去问市场，自由或许问心脏"
 sidebar-avatar: /img/about-ZOZN_109.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
