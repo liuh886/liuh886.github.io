@@ -1,6 +1,6 @@
 # Site settings
-title: ZOZN_109 Blog | OffshoreOrient | Geodata and Seismic QC
-SEOTitle: ZOZN_109 Blog | Geodata and Seismic QC
+title: ZOZN_109 Blog
+SEOTitle: ZOZN_109 Blog | OffshoreOrient | Geodata and Seismic QC
 header-img: img/post-bg-desk.jpg
 email: liuzhihao109@foxmail.com
 description: "ZOZN_109 Blog"
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: d67236bd12557e7f6ae6                            #生成的clientID
-  clientSecret: 251af0e31aa96cfef19572312f20c9b7b8ac3bf0    #生成的clientSecret
+  clientID: aab13333f12bacf5a8a0                            #生成的clientID
+  clientSecret: 5d65df8593e616e057734dadea8974ecb90e8ee4    #生成的clientSecret
   repo: liuh886.github.io    #仓库名称
   owner: liuh886    #github用户名
   admin: liuh886
@@ -77,7 +77,7 @@ gitalk:
 ba_track_id: 404b360fc8b0605d26c94d498676c685
 
 # Google Analytics
-ga_track_id: 'G-VM58248WQ8'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-168213431-1'            # Format: UA-xxxxxx-xx
 ga_domain: offshoreorient.xyz               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
