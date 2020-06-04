@@ -1,14 +1,14 @@
 ---
 layout:     post
 title:      OffshoreOrient Studio v1.0.3
-subtitle:   Data Driving Solution for Marine Seismic QC
+subtitle:   Data Driving Solution for Marine Seismc QC
 date:       2020-06-04
 author:     ZOZN
 header-img: img/post-bg-cook.jpg
-catalog: true
+catalog:    true
 tags:
     - Blog
-	- OOS
+    - OOS
 ---
 
 
@@ -19,7 +19,7 @@ In OffshoreOrient Studio v1.0.3 toolbox, NavPy focus on the **shot by shot or se
 
 ![](\img\OOS\NavPy_SurveyWide_Cross-line_QC_package_Introduction-1024x576.png)
 
-### NavPy: The easiest QC tools for navigation
+## NavPy: The easiest QC tools for navigation
 
 - SurveyWide Map: for spatial analysis and stastics
 - SurveyWide Chart: for line by line QC
@@ -33,7 +33,7 @@ In OffshoreOrient Studio v1.0.3 toolbox, NavPy focus on the **shot by shot or se
 
 ![SurveyWide for GUN Separation by NavPy](\img\OOS\oos_surveywide.png)
 
-### QcPy
+## QcPy
 
 QcPy could be used for RMS analysis, Noise test, Sensitivity normalization, and Trace edit, Fresnel Chart
 
@@ -45,13 +45,13 @@ QcPy could be used for RMS analysis, Noise test, Sensitivity normalization, and 
 
 ![Polyfit for sensitivity normalization by QcPy](\img\OOS\oos_polyfit.png)
 
-### SourcePy
+## SourcePy
 
 SourcePy is for checking header files by Gun Controller.
 
 ![Real-time Near Field QC and Header QC by SourcePy](\img\OOS\oos_sourcepy.png)
 
-### Timeline of Update
+## Timeline of Update
 
 v1.0.3 12 Dec 2019: RMS Analysis, SourcePy
 
@@ -65,3 +65,6 @@ v.1.0.0 beta 01 Mar 2019: NavPy
 
 ![](img\OOS\NavPy_SurveyWide_Cross-line_QC_package_Introduction2-1024x576.png)
 
+
+
+Published by [ZOZN_109 Blog](http://offshoreorient.xyz), [@ZYZN_109](http://github.com/liuh886) ,转载请保留原文链接.
