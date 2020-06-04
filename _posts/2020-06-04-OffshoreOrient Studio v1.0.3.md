@@ -11,6 +11,10 @@ tags:
 	- OOS
 ---
 
+
+
+# OffshoreOrient Studio v1.0.3
+
 In OffshoreOrient Studio v1.0.3 toolbox, NavPy focus on the **shot by shot or sequence by sequence QC**. QcPy was mainly used for **Trace edit** and **RMS analysis**. SourcePy is  a **real-time  solution for near field Gun QC**.
 
 ![](\img\OOS\NavPy_SurveyWide_Cross-line_QC_package_Introduction-1024x576.png)
