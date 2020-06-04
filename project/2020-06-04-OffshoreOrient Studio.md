@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      OOS
+title:      OffshoreOrient Studio |
 subtitle:   Data Driving Solution for Marine Seismc QC
 date:       2020-06-04
 author:     ZOZN
