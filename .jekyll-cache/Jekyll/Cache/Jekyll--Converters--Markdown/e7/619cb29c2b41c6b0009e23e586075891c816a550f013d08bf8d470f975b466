@@ -1,4 +1,4 @@
-I"
+I"R
 <h1 id="offshoreorient-studio-v103">OffshoreOrient Studio v1.0.3</h1>
 
 <p>In OffshoreOrient Studio v1.0.3 toolbox, NavPy focus on the <strong>shot by shot or sequence by sequence QC</strong>. QcPy was mainly used for <strong>Trace edit</strong> and <strong>RMS analysis</strong>. SourcePy is  a <strong>real-time  solution for near field Gun QC</strong>.</p>
@@ -21,7 +21,7 @@
 
 <p><img src="\img\OOS\oos_surveywide.png" alt="SurveyWide for GUN Separation by NavPy" /></p>
 
-<h2 id="qcpy">QcPy</h2>
+<h2 id="qcpy-driving-seismic-better-with-python">QcPy: Driving seismic better with Python</h2>
 
 <p>QcPy could be used for RMS analysis, Noise test, Sensitivity normalization, and Trace edit, Fresnel Chart</p>
 
@@ -35,7 +35,7 @@
 
 <p><img src="\img\OOS\oos_polyfit.png" alt="Polyfit for sensitivity normalization by QcPy" /></p>
 
-<h2 id="sourcepy">SourcePy</h2>
+<h2 id="sourcepy-never-stop-shooting">SourcePy: Never stop shooting</h2>
 
 <p>SourcePy is for checking header files by Gun Controller.</p>
 
@@ -55,5 +55,5 @@
 
 <p><img src="img\OOS\NavPy_SurveyWide_Cross-line_QC_package_Introduction2-1024x576.png" alt="" /></p>
 
-<p>本文首次发布于 <a href="http://offshoreorient.xyz">ZOZN_109 Blog</a>, 作者 <a href="http://github.com/liuh886">@ZYZN_109</a> ,转载请保留原文链接.</p>
+<p>Published by <a href="http://offshoreorient.xyz">ZOZN_109 Blog</a>, <a href="http://github.com/liuh886">@ZYZN_109</a></p>
 :ET

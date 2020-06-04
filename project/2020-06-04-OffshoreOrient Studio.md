@@ -6,6 +6,7 @@ date:       2020-06-04
 author:     ZOZN
 header-img: img/post-bg-cook.jpg
 catalog:    true
+permalink: /oos
 tags:
     - Blog
     - OOS
@@ -33,7 +34,7 @@ In OffshoreOrient Studio v1.0.3 toolbox, NavPy focus on the **shot by shot or se
 
 ![SurveyWide for GUN Separation by NavPy](\img\OOS\oos_surveywide.png)
 
-## QcPy
+## QcPy: Driving seismic better with Python 
 
 QcPy could be used for RMS analysis, Noise test, Sensitivity normalization, and Trace edit, Fresnel Chart
 
@@ -45,7 +46,7 @@ QcPy could be used for RMS analysis, Noise test, Sensitivity normalization, and 
 
 ![Polyfit for sensitivity normalization by QcPy](\img\OOS\oos_polyfit.png)
 
-## SourcePy
+## SourcePy: Never stop shooting
 
 SourcePy is for checking header files by Gun Controller.
 
@@ -67,4 +68,4 @@ v.1.0.0 beta 01 Mar 2019: NavPy
 
 
 
-Published by [ZOZN_109 Blog](http://offshoreorient.xyz), [@ZYZN_109](http://github.com/liuh886) ,转载请保留原文链接.
+Published by [ZOZN_109 Blog](http://offshoreorient.xyz), [@ZYZN_109](http://github.com/liuh886)
