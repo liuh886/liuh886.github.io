@@ -2,7 +2,7 @@
 layout:     post
 title:      OffshoreOrient Studio |
 subtitle:   Data Driving Solution for Marine Seismc QC
-date:       2020-06-04
+date:       2019-12-12
 author:     ZOZN
 header-img: img/post-bg-cook.jpg
 catalog:    true
