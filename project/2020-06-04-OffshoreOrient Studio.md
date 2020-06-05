@@ -66,7 +66,7 @@ v.1.0.0 beta 01 Mar 2019: NavPy
 
 ![](\img\OOS\NavPy_SurveyWide_Cross-line_QC_package_Introduction1-1024x576.png)
 
-![](img\OOS\NavPy_SurveyWide_Cross-line_QC_package_Introduction2-1024x576.png)
+![](\img\OOS\NavPy_SurveyWide_Cross-line_QC_package_Introduction2-1024x576.png)
 
 
 

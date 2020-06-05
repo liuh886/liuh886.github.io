@@ -3,7 +3,7 @@
 
 这里是ZOZN_109的自留地。
 
-这是我的利用[GitHub Pages](https://pages.github.com/)与 [Jekyll](http://jekyll.com.cn/) 搭建的个人博客。我在👉[GitHub主页](https://github.com/liuh886)与👉 [知乎主页}(https://http://www.zhihu.com/u/ihaozi),如果有什么问题，欢迎提出探讨~
+这是我的利用[GitHub Pages](https://pages.github.com/)与 [Jekyll](http://jekyll.com.cn/) 搭建的个人博客。我在👉[GitHub主页](https://github.com/liuh886)与👉 [知乎主页}(https://www.zhihu.com/u/ihaozi),如果有什么问题，欢迎提出探讨~
 
 
 ##### [我的可视化质控软件 OffshoreOrient Studio](https://offshoreorient.xyz/oos/)
