@@ -3,95 +3,23 @@ layout: page
 title: "About"
 description: "Hey, this is ZOZN_109."
 header-img: "img/post-bg-rwd.jpg"
+multilingual: true
 ---
 
-<!-- Language Selector -->
-<!-- <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected> 中文 Chinese </option>
-    <option value="1"> 英文 English </option>
-</select> -->
+{% include multilingual-sel.html %}
 
 <!-- Chinese Version -->
 <div class="zh post-container">
-
-    <!--copied from markdown -->
-    <blockquote><p>什么样的行为<br>
-    就有什么样的人</p></blockquote>
-
-    <p>这里是<strong>ZOZN_109</strong>的自留地。</p>
-
-    <p>是我的利用 <a href="https://pages.github.com/">GitHub Pages</a> 与 <a href="http://jekyll.com.cn/">Jekyll</a> 搭建的个人博客。我在GitHub主页<a href="https://github.com/liuh886">👉GitHub·ZNZO_109</a> 与 知乎主页<a href="https://http://www.zhihu.com/u/ihaozi">👉豪子在原野</a>。如果有什么问题，欢迎提出探讨~</p>
-
-    <p>通常我比较关注Geodata Science 与Offshore Seismic QC 相关内容。</p>
-
-    <p></p>
-    
-    <h5>Talks</h5>
-
-    <ul>
-        <li>OffshoreOrient Studio, a QC toolbox developed by myself</li>
-        <li>4D Seismic Repeatability Evaluation</li>
-        <li>Python and Geodata Visualization</li> 
-        <li>GIS and Offshore Industry</li>
-    </ul>
+    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
+    {{ about_zh | markdownify }}
 </div>
 
 <!-- English Version -->
-<!-- <div class="en post-container">
-    <blockquote><p>An Offshore worker with programming skills <br>
-    An avid runner with GIS background</p></blockquote>
+<div class="en post-container">
+    {% capture about_en %}{% include about/en.md %}{% endcapture %}
+    {{ about_en | markdownify }}
+</div>
 
-    <p>Who am I?</p>
-
-    <h5>Talks</h5>
-
-    <ul>
-        <li>OffshoreOrient Studio, a QC toolbox developed by myself</li>
-        <li>4D Seismic Repeatability Evaluation</li>
-        <li>Python and Geodata Visualization</li> 
-        <li>GIS and Offshore Industry</li>
-    </ul>
-</div> -->
-
-<!-- Handle Language Change -->
-<script type="text/javascript">
-    // get nodes
-    var $zh = document.querySelector(".zh");
-    var $en = document.querySelector(".en");
-    var $select = document.querySelector("select");
-
-    // bind hashchange event
-    window.addEventListener('hashchange', _render);
-
-    // handle render
-    function _render(){
-        var _hash = window.location.hash;
-        // en
-        if(_hash == "#en"){
-            $select.selectedIndex = 1;
-            $en.style.display = "block";
-            $zh.style.display = "none";
-        // zh by default
-        }else{
-            // not trigger onChange, otherwise cause a loop call.
-            $select.selectedIndex = 0;
-            $zh.style.display = "block";
-            $en.style.display = "none";
-        }
-    }
-
-    // handle select change
-    function onLanChange(index){
-        if(index == 0){
-            window.location.hash = "#zh"
-        }else{
-            window.location.hash = "#en"
-        }
-    }
-
-    // init
-    _render();
-</script>
 
 
 <!-- Gitalk 评论 start  -->
