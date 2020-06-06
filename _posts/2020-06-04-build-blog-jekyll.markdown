@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      基于Jekyll与GitHub Page的个人博客
 subtitle:   不付费不敲代码，不香吗？
@@ -7,8 +7,10 @@ author:     ZOZN
 header-img: img/post-bg-cook.jpg
 catalog:    true
 permalink:  /myblog
-tags:
-    - Blog
+tags: 
+
+-blog
+
 ---
 
 ## 流水线记录
@@ -67,3 +69,4 @@ Jekyll是一个生成静态页面的博客工具，相关设置在_config.yml文
 
 
 
+![](../../img/post/11号线17号线新汉阳站规划示意图.png)
