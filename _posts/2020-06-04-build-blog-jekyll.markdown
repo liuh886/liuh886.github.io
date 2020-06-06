@@ -8,9 +8,7 @@ header-img: img/post-bg-cook.jpg
 catalog:    true
 permalink:  /myblog
 tags: 
-
--blog
-
+    - blog
 ---
 
 ## 流水线记录
@@ -66,7 +64,3 @@ Jekyll是一个生成静态页面的博客工具，相关设置在_config.yml文
 - Google Analysis。申请开通，添加个人域名，获得id，在_config.yml中写进去。
 - GitTalk。
 - 添加页面。在项目目录下放置md或者html文件，会自动加载到顶部菜单栏，成为一个单独页面。
-
-
-
-![](../../img/post/11号线17号线新汉阳站规划示意图.png)
