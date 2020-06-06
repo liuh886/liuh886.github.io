@@ -15,11 +15,11 @@ tags:
 
 ### 一、Fork模板
 
-这里是[黄玄大神的github仓库](https://github.com/Huxpro/huxblog-boilerplate)
+这里是[黄玄大神的github仓库](https://github.com/Huxpro/huxblog-boilerplate)，直接Fork。
 
-进入刚刚fork的项目，setting，将仓库名字改为： <username>.github.io，<username>就是你的github用户名，然后点击 Rename。
+进入刚刚fork的项目，setting，将仓库名字改为： username.github.io，username就是你的github用户名，然后点击 Rename。
 
-此时，打开 https://<username>.github.io 已经可以看到一个blog模板自动生成，且可以访问了。
+此时，打开 https://username.github.io 已经可以看到一个blog模板自动生成，且可以访问了。
 
 如果无法打开，则先删掉CNAME文件内容。
 
@@ -47,7 +47,7 @@ Jekyll是一个生成静态页面的博客工具，相关设置在_config.yml文
 
 ### 四、自定义域名
 
-- Ping <username>.github.io 获得ip地址。
+- Ping username.github.io 获得ip地址。
 - 购买域名。
 - 在域名商那里设置DNS解析到如上ip。
 - CNAME文件中加入自己的域名。
@@ -57,7 +57,7 @@ Jekyll是一个生成静态页面的博客工具，相关设置在_config.yml文
 ### 五、一些效率工具
 
 - GitHub Desktop。Clone项目文件到本地，每次修改后submit然后push到服务器，以后本地写博客更加方便。
-- 安装Jekyll环境。使用命令 jekyll s 配置web服务器，然后访问127.0.0.1:4000即可在本地调试。
+- 本地安装Ruby、Jekyll环境。使用命令 jekyll s 配置web服务器，然后访问127.0.0.1:4000即可在本地调试。
 
 ### 六、优化设置
 

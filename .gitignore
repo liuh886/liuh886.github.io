@@ -33,3 +33,6 @@ Temporary Items
 
 # debug file
 _site
+.jekyll-cache
+_posts/_draft
+_posts/_archive
