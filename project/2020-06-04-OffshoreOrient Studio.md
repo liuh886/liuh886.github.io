@@ -49,14 +49,17 @@ QcPy could be used for RMS analysis, Noise test, Sensitivity normalization, and 
 
 ![RMS Analysis, stack in channel/streamer/shots by QcPy](\img\OOS\oos_rms.png)
 >RMS Analysis, stack in channel/streamer/shots by QcPy
+
 ![Polyfit for sensitivity normalization by QcPy](\img\OOS\oos_polyfit.png)
 >Polyfit for sensitivity normalization by QcPy
+
 ## SourcePy: Never stop shooting
 
 SourcePy is for checking header files by Gun Controller.
 
 ![Real-time Near Field QC and Header QC by SourcePy](\img\OOS\oos_sourcepy.png)
 >Real-time Near Field QC and Header QC by SourcePy
+
 ## Timeline of Update
 
 v1.0.3 12 Dec 2019: RMS Analysis, SourcePy
