@@ -5,34 +5,34 @@ header-img: img/post-bg-desk.jpg
 email: liuzhihao109@foxmail.com
 description: "ZOZN_109 Blog"
 keyword: "Blog, ZOZN_109的博客, Python, OOS, OffshoreOrient, Seismic, Geodata"
-url: "http://liuh886.github.io"          # your host, for absolute URL
+url: "https://offshoreorient.xyz"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/liuh886/liuh886.github.io.git" # you code repository
 
 # Publish posts or collection documents with a future date.
 future: true
 
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "ZOZN_109: 明天不去问市场，自由或许问心脏"
-sidebar-avatar: /img/about-ZOZN_109.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
-
-
 # SNS settings
 RSS: false
-# weibo_username:     u327654395
+#weibo_username:     u327654395
 zhihu_username:     ihaozi
 github_username:    liuh886
-facebook_username:  ihaozi
+#facebook_username:  ihaozi
 #jianshu_username:   
 #twitter_username:   
+#linkedin_username:  firstname-lastname-idxxxx
 
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "明天不去问市场,<br>自由或许问心脏"
+sidebar-avatar: /img/about-ZOZN_109.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+highlighter: rouge
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
@@ -43,7 +43,7 @@ anchorjs: true                          # if you want to customize anchor. check
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 # `$ gem install jekyll-paginate`
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 
 
@@ -53,7 +53,6 @@ gems: [jekyll-paginate]
 # although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
 # document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
-highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
   syntax_highlighter_opts:
@@ -77,9 +76,6 @@ gitalk:
   owner: liuh886    #github用户名
   admin: liuh886
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
-
-# 统计
 
 # Analytics settings
 # Baidu Analytics
@@ -121,4 +117,4 @@ page-mathjax: false
 #        title: "Apple Developer",
 #        href: "https://developer.apple.com/"
 #    }
-#]
+#
