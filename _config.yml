@@ -1,10 +1,10 @@
 # Site settings
-title: ZOZN_109 Blog
-SEOTitle: ZOZN_109 Blog | OffshoreOrient | Geodata and Seismic QC
+title: zozn0109 Blog
+SEOTitle: zozn0109 Blog | OffshoreOrient | Geodata and Seismic QC
 header-img: img/post-bg-desk.jpg
 email: liuzhihao109@foxmail.com
-description: "ZOZN_109 Blog"
-keyword: "Blog, ZOZN_109的博客, Python, OOS, OffshoreOrient, Seismic, Geodata"
+description: "zozn0109 Blog"
+keyword: "Blog, zozn0109的博客, Python, OOS, OffshoreOrient, Seismic, Geodata"
 url: "https://offshoreorient.xyz"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/liuh886/liuh886.github.io.git" # you code repository
@@ -14,10 +14,11 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username:     u327654395
+#weibo_username:     327654395
 zhihu_username:     ihaozi
 github_username:    liuh886
-#facebook_username:  ihaozi
+facebook_username:  ihaozi
+instagram_username: zozn0109
 #jianshu_username:   
 #twitter_username:   
 #linkedin_username:  firstname-lastname-idxxxx
@@ -25,7 +26,7 @@ github_username:    liuh886
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "明天不去问市场,<br>自由或许问心脏"
+sidebar-about-description: "明天不去问市场,<br>自由或许问心脏。"
 sidebar-avatar: /img/about-ZOZN_109.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
