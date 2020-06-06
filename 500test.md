@@ -1,0 +1,12 @@
+---
+layout: default
+title: 500test
+hide-in-nav: false
+description: "你来到了没有知识的荒原 :("
+header-img: "img/404-bg.jpg"
+permalink: /505
+---
+
+
+### 505
+test

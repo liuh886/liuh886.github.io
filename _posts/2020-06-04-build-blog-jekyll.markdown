@@ -72,3 +72,7 @@ jekyll build
 - Google Analysis。申请开通，添加个人域名，获得id，在_config.yml中写进去。
 - GitTalk。需要注意申请client ID时，需要在Github开发者中申请OAuth App，在填写HomePage URL时，https://offshoreorient.xyz/，最后这个反斜杠不加会导致跳转错误。
 - 添加页面。在项目目录下放置md或者html文件，会自动加载到顶部菜单栏，成为一个单独页面。具体从[Jekyll官方文档](https://jekyllrb.com/docs/pages/)了解。
+
+### 七、疑难杂症
+
+- GitHub Page正常，本地调试主页不显示文章。经查，将_config.yml中url设置从username.github.io，修改为域名后，本地调试主页正常显示。
