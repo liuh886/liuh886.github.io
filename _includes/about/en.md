@@ -7,9 +7,9 @@ Who am I?
 ##### Talks
 - OffshoreOrient Studio, a QC toolbox developed by myself
 - 4D Seismic Repeatability Evaluation
-- Python and Geodata Visualization
-- GIS and Offshore Industry
-- Web-app for Offshore Industry
+- Geodata Visualization
+- GIS x Offshore
+- Web-application for Offshore Industry
 
 [1]: //huangxuan.me/2015/07/09/js-module-7day/
 [2]: //huangxuan.me/2015/12/28/css-sucks-2015/

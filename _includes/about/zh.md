@@ -11,7 +11,7 @@
 
 ##### [我的可视化质控软件 OffshoreOrient Studio](https://offshoreorient.xyz/oos/)
 
-作为从业者，通常我比较关注Geodata Sciences 与Offshore Seismic QC 相关内容。我试图从数据科学领域引入一些工具与方法，并应用在勘探数字化与智能化方向。
+作为从业者，通常我比较关注Geodata Sciences 与Offshore Seismic QC 相关内容。我试图从数据科学领域借鉴一些工具与方法，并应用在勘探数字化与智能化方向。
 
 利用业余时间，写了这么一个小工具，功能十分有限，但已经比传统优秀太多。
 
@@ -19,9 +19,9 @@
 ##### Talks
 - OffshoreOrient Studio, a QC toolbox developed by myself
 - 4D Seismic Repeatability Evaluation
-- Python and Geodata Visualization
-- GIS and Offshore Industry
-- Web-app for Offshore Industry
+- Geodata Visualization
+- GIS x Offshore
+- Web-application for Offshore Industry
 
 
 [1]: //huangxuan.me/2015/07/09/js-module-7day/
