@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      从附近出发，构建自我，树立关系
-subtitle:   笔记《项飚：我们应该认命，但不能认输》
+title:      笔记《项飚：我们应该认命，但不能认输》
+subtitle:   现在的人希望工作是一个 “洞”：跳进去是无产阶级，跳出来是小资。
 date:       2020-06-22
 author:     ZOZN
 header-img: img/post/xiangbiao.jpg
