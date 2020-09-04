@@ -6,7 +6,7 @@
 
 这里是zozn0109的自留地。
 
-这是我的利用[GitHub Pages](https://pages.github.com/)与 [Jekyll](http://jekyll.com.cn/) 搭建的个人博客。我在👉[GitHub主页](https://github.com/liuh886)与👉 [知乎主页](https://www.zhihu.com/u/ihaozi),如果有什么问题，欢迎提出探讨~
+这是我的利用[GitHub Pages](https://pages.github.com/)与 [Jekyll](http://jekyll.com.cn/) 搭建的个人博客。我在👉[GitHub主页](https://github.com/liuh886)与👉 [知乎主页](https://www.zhihu.com/u/ihaozi), 如果有什么问题，欢迎提出探讨~
 
 
 ##### [我的可视化质控软件 OffshoreOrient Studio](https://offshoreorient.xyz/oos/)
@@ -19,7 +19,7 @@
 ##### Talks
 - OffshoreOrient Studio, a QC toolbox developed by myself
 - 4D Seismic Repeatability Evaluation
-- Geodata Visualization
+- Geodata Visualization, Seismic data and Python
 - GIS x Offshore
 - Web-application for Offshore Industry
 

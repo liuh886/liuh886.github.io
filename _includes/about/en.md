@@ -1,4 +1,4 @@
-> An Offshore worker with programming skills
+> An Offshore engineer with programming skills
 >
 > An avid runner with GIS background
 
@@ -7,7 +7,7 @@ Who am I?
 ##### Talks
 - OffshoreOrient Studio, a QC toolbox developed by myself
 - 4D Seismic Repeatability Evaluation
-- Geodata Visualization
+- Geodata Visualization, Seismic data and Python
 - GIS x Offshore
 - Web-application for Offshore Industry
 
