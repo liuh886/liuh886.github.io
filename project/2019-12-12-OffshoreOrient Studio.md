@@ -10,9 +10,8 @@ catalog:    true
 tags:
     - OOS
     - seismic
+
 ---
-
-
 
 # OffshoreOrient Studio v1.0.3
 
