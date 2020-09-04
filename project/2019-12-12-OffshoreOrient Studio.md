@@ -5,7 +5,7 @@ subtitle:   Data Driving Solution for Marine Seismc QC
 date:       2019-12-12
 author:     ZOZN
 header-img: img/post-bg-cook.jpg
-permalink:  oos
+permalink:  /oos/
 catalog:    true
 tags:
     - OOS
